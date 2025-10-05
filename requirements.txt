@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+supabase
+passlib[bcrypt]
+python-dotenv
